@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Leithinis | Official Website</title>
+  <meta charset="UTF-8">
+  <title>Your Page Title</title>
+  <!-- Link to your CSS file here: -->
+  <link rel="stylesheet" href="style.css">
+</head>
+  <body>
+    <!-- Main Header -->
+    <header>
+      <h1>Gray Morrison</h1>
+              <p align="left">
+  <img src="./gts.jpg" width="300" alt="Gray Morrison">
+</p>
+      <p>
+        <a href="#welcome">Go to Welcome</a><br>
+        <a href="#the-devils-side">Go to X</a><br>
+        <a href="#EP">Go to Y</a><br>
+        <a href="#fc">Go to Z</a><br>
+        </p>
+    </header>
+ 
+ <hr>
+    <!-- Main Content -->
+    <main>
+      <h2 id="welcome">Welcome</h2>
+      <p>Welcome to the official home of Leithinis. Step inside to discover the latest releases and stories behind the music.</p>
